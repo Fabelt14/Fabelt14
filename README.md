@@ -18,6 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Fabelt14&theme=dark)](https://git.io/streak-stats)
 
+![Fabelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabelt14&show_icons=true&theme=radical)
+
 
 [![Fabelt14's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fabelt14&theme=high-contrast)](https://github.com/Fabelt14/github-readme-activity-graph)
 
