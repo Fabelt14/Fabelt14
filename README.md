@@ -18,4 +18,6 @@ You can click the Preview link to take a look at your changes.
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fabelt14&theme=onedark)](https://github.com/Fabelt14/github-profile-trophy)
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Fabelt14&theme=dark)](https://git.io/streak-stats)
+
 
