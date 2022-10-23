@@ -22,3 +22,5 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Fabelt14's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fabelt14&theme=high-contrast)](https://github.com/Fabelt14/github-readme-activity-graph)
+
+https://camo.githubusercontent.com/a1de7b783a6eecc99d425d2d85c3086418f22e607472268d0d86741aa45cf601/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a6f686e6f73656e693126636f6c6f723d677265656e
