@@ -1,12 +1,12 @@
-- 👋 Hi, I’m Fabelt14
+### 👋 Hi, I’m Fabelt14
 
-- 👀 I’m interested in learning Programs and Hacking
+### 👀 I’m interested in learning Programs and Hacking
 
-- 🌱 I’m currently learning as a Secondary Student
+### 🌱 I’m currently learning as a Secondary Student
 
-- 💞️ I’m looking to collaborate on phishing tool, bruteforce, attacks e.t.c.
+### 💞️ I’m looking to collaborate on phishing tool, bruteforce, attacks e.t.c.
 
-- 📫 How to reach me  (09017545298) WhatsApp
+### 📫 How to reach me  (09017545298) WhatsApp
 
 <!---
 Fabelt14/Fabelt14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +24,8 @@ You can click the Preview link to take a look at your changes.
 [![Fabelt14's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fabelt14&theme=high-contrast)](https://github.com/Fabelt14/github-readme-activity-graph)
 
 ![](https://raw.githubusercontent.com/username/github-stats/fabelt14/generated/languages.svg#gh-dark-mode-only)
+
+
+### Most Used Languages 💻
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabelt14&layout=compact&theme=midnight-purple)](https://github.com/Fabelt14)
