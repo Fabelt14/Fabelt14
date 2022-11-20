@@ -26,12 +26,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://raw.githubusercontent.com/username/github-stats/fabelt14/generated/languages.svg#gh-dark-mode-only)
 
 
- "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
-  "issueId": 66,
-  "name": "Fabelt 404",
-  "username": "fabelt404"
-
-
 ### Most Used Languages 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabelt14&layout=compact&theme=midnight-purple)](https://github.com/Fabelt14)
