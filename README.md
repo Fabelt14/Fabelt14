@@ -1,12 +1,12 @@
 ### 👋 Hi, I’m Fabelt14
 
-### 👀 I’m interested in learning Programming and Hacking
+### 👀 interested in learning Programming only
 
-### 🌱 I’m Ready to learn 
+### 🌱 Ready to contribute
 
-### 💞️ I’m looking forward to collaborate on phishing tool, bruteforce, attacks e.t.c.
+### 💞️ Working on Python, Nodejs, Html and C##
 
-### 📫 How to reach me (09017545298) WhatsApp
+### 📫 How to reach me https://www.facebook.com/profile.php?id=100074408213889
 
 <!---
 Fabelt14/Fabelt14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
