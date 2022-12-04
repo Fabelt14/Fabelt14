@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ![Fabelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabelt14&show_icons=true&theme=radical)
 
 
-[![Fabelt14's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fabelt14&theme=high-contrast)](https://github.com/Fabelt14/github-readme-activity-graph)
+[![Fabelt14's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fabelt14&theme=dracula)](https://github.com/Fabelt14/github-readme-activity graph)
 
 ![](https://raw.githubusercontent.com/username/github-stats/fabelt14/generated/languages.svg#gh-dark-mode-only)
 
