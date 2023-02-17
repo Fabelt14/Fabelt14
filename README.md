@@ -1,28 +1,25 @@
-### 👋 Hi, I’m Fabelt14
+<h1 align="center">🖥️ MY FIELD OF WORK</h1>
 
-### 👀 interested in learning Programming only
+* **⚡ Cyber Security**
+* **👨‍🔬 Physical Pentesting**
+* **🌐 Netwoking**
+* **👨‍💻 Software Devlopment**
+* **🕸️ Web Devlopment**
+<h2 align="center">📜 SOME GITHUB STATS </h1>
 
-### 🌱 Ready to contribute
-
-### 💞️ Working on Python, Nodejs, Html and C##
-
-### 📫 How to reach me https://www.facebook.com/profile.php?id=100074408213889
-
-<!---
-Fabelt14/Fabelt14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fabelt14&theme=onedark)](https://github.com/Fabelt14/github-profile-trophy)
+<p align = "center">
+  <meta http-equiv="Pragma" content="no-cache">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Fabelt14&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Fabelt14&theme=dark&hide_border=true" width = 400>
+</p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Fabelt14&theme=dark)](https://git.io/streak-stats)
-
-![Fabelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabelt14&show_icons=true&theme=radical)
-
-[![Fabelt's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fabelt14)](https://github.com/fabelt14/github-readme-activity-graph)
+<p align = "center">
+<img src = "https://github-profile-trophy.vercel.app/?username=Fabelt14&theme=onedark">)
+</p>
 
 
 ### Most Used Languages 💻
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabelt14&layout=compact&theme=midnight-purple)](https://github.com/Fabelt14)
+<p align = "center">
+<img src = "Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabelt14&layout=compact&theme=midnight-purple" width = 400>
+</p>
