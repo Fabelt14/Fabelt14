@@ -64,3 +64,8 @@ I use GitHub to <b>document my growth, share experiments, and collaborate</b> wi
 I believe <b>cybersecurity is like solving puzzles</b> — every packet, every log, every exploit is a clue.  
 I’m here to keep learning, experimenting, and growing daily.  
 </p>
+
+
+
+
+![](https://komarev.com/ghpvc/?username=Fabelt14)
