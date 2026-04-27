@@ -61,7 +61,7 @@ I use GitHub to <b>document my growth, share experiments, and collaborate</b> wi
 <h2 align="center"><u><b>⚡ FUN FACT</b></u></h2>
 
 <p align="center">
-I believe <b>cybersecurity is like solving puzzles</b> — every packet, every log, every exploit is a clue.  
+I believe <b>cybersecurity is like solving puzzles</b> every packet, every log, every exploit is a clue.  
 I’m here to keep learning, experimenting, and growing daily.  
 </p>
 
